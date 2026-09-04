@@ -1,0 +1,7 @@
+highspy==1.15.1
+ortools==9.15.6755
+numpy==2.5.1
+pandas==3.0.5
+matplotlib==3.11.1
+geopy==2.5.0
+requests==2.34.2
